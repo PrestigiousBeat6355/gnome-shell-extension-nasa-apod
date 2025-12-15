@@ -573,6 +573,7 @@ export default class NasaApodExtension extends Extension {
     disable() {
         this._indicator?.stop();
         this._indicator?.destroy();
+        this._httpSession?.abort();
         this._httpSession = null;
         this._indicator = null;
     }
