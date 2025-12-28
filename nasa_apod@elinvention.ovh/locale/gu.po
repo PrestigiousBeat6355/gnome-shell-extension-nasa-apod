@@ -1,0 +1,487 @@
+# Gujarati translation for NASA APOD GNOME Extension. 
+# Copyright (C) 2025 elinvention 
+# This file is distributed under the same license as the nasa_apod@elinvention.ovh package. 
+# [ઉશ્કેરાયેલી અદાલત ૬૫૧] <[Crazycourt651@gmail.com]>, 2025.
+# ઉશ્કાયેરેલી અદાલત ૬૫૫ <Crazycourt655@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 47\n"
+"Report-Msgid-Bugs-To: Crazycourt655@gmail.com\n"
+"POT-Creation-Date: 2025-12-15 22:12+0000\n"
+"PO-Revision-Date: 2025-12-27 19:59+0530\n"
+"Last-Translator: ઉશ્કાયેરેલી અદાલત ૬૫૫ <Crazycourt655@gmail.com>\n"
+"Language-Team: ગુજરાતી <gu@li.org>\n"
+"Language: gu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Gtranslator 49.0\n"
+
+#: nasa_apod@elinvention.ovh/extension.js:66
+msgid "No picture for today 😞. Please visit NASA APOD website."
+msgstr "આજ માટે કોઇ ચિત્ર નથી 😞. કૃપા કરીને NASA APOD વેબસાઇટની મુલાકાત લો."
+
+#: nasa_apod@elinvention.ovh/extension.js:69
+msgid "You can enable YouTube thumbnail download in the settings."
+msgstr "તમે સેટિંગ્સમાં YouTube થંબનેલ ડાઉનલોડ સક્ષમ કરી શકો છો."
+
+#: nasa_apod@elinvention.ovh/extension.js:96
+#: nasa_apod@elinvention.ovh/extension.js:134
+msgid "NASA APOD website"
+msgstr "NASA APOD વેબસાઇટ"
+
+#: nasa_apod@elinvention.ovh/extension.js:97
+msgid "Get an API key"
+msgstr "API કી મેળવો"
+
+#: nasa_apod@elinvention.ovh/extension.js:98
+#: nasa_apod@elinvention.ovh/extension.js:100
+#: nasa_apod@elinvention.ovh/extension.js:149
+msgid "Settings"
+msgstr "સુયોજનો"
+
+#: nasa_apod@elinvention.ovh/extension.js:99
+msgid "Retry"
+msgstr "ફરી પ્રયાસ કરો"
+
+#: nasa_apod@elinvention.ovh/extension.js:120
+msgid "No title available"
+msgstr "કોઈ શીર્ષક ઉપલબ્ધ નથી"
+
+#: nasa_apod@elinvention.ovh/extension.js:124
+msgid "No description available"
+msgstr "કોઈ વર્ણન ઉપલબ્ધ નથી"
+
+#: nasa_apod@elinvention.ovh/extension.js:130
+msgid "No copyright information available"
+msgstr "કોઈ કોપીરાઈટ માહિતી ઉપલબ્ધ નથી"
+
+#: nasa_apod@elinvention.ovh/extension.js:137
+#: nasa_apod@elinvention.ovh/extension.js:265
+msgid "No refresh scheduled"
+msgstr "કોઈ રિફ્રેશ શેડ્યૂલ કરેલ નથી"
+
+#: nasa_apod@elinvention.ovh/extension.js:140
+msgid "Open Wallpaper Folder"
+msgstr "વૉલપેપર ફોલ્ડર ખોલો"
+
+#: nasa_apod@elinvention.ovh/extension.js:143
+msgid "Set Wallpaper"
+msgstr "વૉલપેપર ગોઠવો"
+
+#: nasa_apod@elinvention.ovh/extension.js:146
+#: nasa_apod@elinvention.ovh/extension.js:230
+msgid "Refresh"
+msgstr "અધ્યતન કરો"
+
+#: nasa_apod@elinvention.ovh/extension.js:216
+msgid "Refreshing..."
+msgstr "અધ્યતન થઇ રહ્યું છે"
+
+#: nasa_apod@elinvention.ovh/extension.js:219
+msgid "Network unavailable"
+msgstr "નેટવર્ક અનુપલબ્ધ"
+
+#: nasa_apod@elinvention.ovh/extension.js:222
+msgid "Wait 10 seconds..."
+msgstr "૧૦ સેકન્ડ રાહ જુઓ..."
+
+#: nasa_apod@elinvention.ovh/extension.js:228
+msgid "Unpin and Refresh"
+msgstr "અનપિન કરો અને અધ્યતન કરો"
+
+#: nasa_apod@elinvention.ovh/extension.js:232
+msgid " (metered network)"
+msgstr "(મીટર કરેલ નેટવર્ક)"
+
+#: nasa_apod@elinvention.ovh/extension.js:246
+msgid ""
+"Here will be displayed an explanation of the current NASA's APOD wallpaper. "
+"Please press refresh to download a new wallpaper along with the explanation."
+msgstr ""
+"અહીં નાસાના વર્તમાન APOD વૉલપેપરની સમજૂતી પ્રદર્શિત કરવામાં આવશે. સમજૂતી સાથે નવું "
+"વૉલપેપર ડાઉનલોડ કરવા માટે કૃપા કરીને અધ્યતન કરો દબાવો."
+
+#: nasa_apod@elinvention.ovh/extension.js:276
+msgid "Next refresh: {0}"
+msgstr "આગામી રિફ્રેશ: {0}"
+
+#: nasa_apod@elinvention.ovh/extension.js:279
+msgid "Next refresh in less than a minute"
+msgstr "આગામી એક મિનિટથી ઓછા સમયમાં અધ્યતન થશે"
+
+#: nasa_apod@elinvention.ovh/extension.js:353
+msgid "Pending refresh"
+msgstr "અધ્યતન કરવાનું બાકી"
+
+#: nasa_apod@elinvention.ovh/extension.js:385
+msgid "Invalid NASA API key (error 403)"
+msgstr "અમાન્ય NASA API કી (ભૂલ 403)"
+
+#: nasa_apod@elinvention.ovh/extension.js:386
+msgid "Check that your key is correct or use the default key."
+msgstr "તપાસો કે તમારી ચાવી(Key)સાચી છે અથવા મુળભૂત ચાવીનો ઉપયોગ કરો."
+
+#: nasa_apod@elinvention.ovh/extension.js:393
+msgid "Network error"
+msgstr "નેટવર્ક ભૂલ"
+
+#: nasa_apod@elinvention.ovh/extension.js:394
+#: nasa_apod@elinvention.ovh/extension.js:539
+msgid "HTTP status code {0}."
+msgstr "HTTP સ્ટેટસ કોડ {0}."
+
+#: nasa_apod@elinvention.ovh/extension.js:402
+msgid "Generic error"
+msgstr "સામાન્ય ભૂલ"
+
+#: nasa_apod@elinvention.ovh/extension.js:414
+msgid "Over rate limit (error 429)"
+msgstr "દર મર્યાદાથી વધુ (ભૂલ 429)"
+
+#: nasa_apod@elinvention.ovh/extension.js:415
+msgid ""
+"Get your API key at https://api.nasa.gov/ to have 1000 requests per hour "
+"just for you."
+msgstr ""
+"ફક્ત તમારા માટે કલાક દીઠ ૧૦૦૦ વિનંતીઓ મેળવવા માટે https://api.nasa.gov/ પર તમારી "
+"API ચાવી(Key) મેળવો."
+
+#: nasa_apod@elinvention.ovh/extension.js:520
+msgid "Download {0} done"
+msgstr "ડાઉનલોડ {0} પૂર્ણ"
+
+#: nasa_apod@elinvention.ovh/extension.js:538
+msgid "Couldn't fetch image from {0}"
+msgstr "{0} પરથી છબી મેળવી શકાઈ નથી"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:15
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:25
+msgid "About"
+msgstr "વિશે"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:45
+msgid "version:"
+msgstr "આવૃત્તિ:"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:53
+msgid "Change your wallpaper daily to the NASA's astronomy picture of the day"
+msgstr "તમારા વૉલપેપરને દરરોજ નાસાના 'એસ્ટ્રોનોમી પિક્ચર ઓફ ધ ડે' (APOD) સાથે બદલો"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:61
+msgid "Extension's GitHub Webpage"
+msgstr "એક્સ્ટેંશનનું GitHub વેબપેજ"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:68
+msgid "Issue Tracker"
+msgstr "ઈશ્યુ ટ્રેકર"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:75
+msgid "Changelog"
+msgstr "ચેન્જલોગ"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:83
+msgid "Brought to you by:"
+msgstr "તમારા માટે પ્રસ્તુતકર્તા:"
+
+#: nasa_apod@elinvention.ovh/preferences/aboutPage.js:91
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/"
+"gpl-2.0.html\">GNU General Public License, version 3 or later</a> for "
+"details</span>"
+msgstr ""
+"<span size=\\\"small\\\">આ પ્રોગ્રામ સંપૂર્ણપણે કોઈ વૉરંટી વગર આવે છે.\\nવિગતો માટે <a "
+"href=\\\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\\\">GNU જનરલ "
+"પબ્લિક લાયસન્સ, આવૃત્તિ ૩ અથવા પછીની</a> જુઓ</span>"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:22
+msgid "Choose download folder"
+msgstr "ડાઉનલોડ ફોલ્ડર પસંદ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:27
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:88
+msgid "Cancel"
+msgstr "રદ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:28
+msgid "Select"
+msgstr "પસંદ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:48
+msgid "General"
+msgstr "સામાન્ય"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:58
+msgid "Indicator"
+msgstr "ઇન્ડિકેટર"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:67
+msgid "Hide extension indicator"
+msgstr "એક્સ્ટેંશન ઇન્ડિકેટર છુપાવો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:68
+msgid "Simply hides that Saturn thing"
+msgstr "માત્ર તે શનિ જેવી નિશાનીને છુપાવે છે"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:91
+msgid "Indicator position"
+msgstr "ઇન્ડિકેટરનું સ્થાન"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:92
+msgid "Moves the indicator in the status area"
+msgstr "સ્ટેટસ એરિયામાં ઇન્ડિકેટર ખસેડે છે"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:104
+msgid "Notifications"
+msgstr "સૂચનાઓ"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:112
+msgid "Notify when a new image is downloaded"
+msgstr "જ્યારે નવી છબી ડાઉનલોડ થાય ત્યારે સૂચિત કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:113
+msgid "A notification will appear with the explanation of the day"
+msgstr "દિવસની સમજૂતી સાથે એક સૂચના દેખાશે"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:123
+msgid "Use transient notifications"
+msgstr "ક્ષણિક સૂચનાઓનો ઉપયોગ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:124
+msgid "Just hover with your mouse to dismiss it"
+msgstr "તેને દૂર કરવા માટે ફક્ત માઉસને તેની ઉપર ફેરવો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:136
+msgid "Background"
+msgstr "બેકગ્રાઉન્ડ"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:151
+msgid "Set background image:"
+msgstr ""
+"બેકગ્રાઉન્ડ છબી સેટ કરો:છબી મોનિટર રિઝોલ્યુશન સાથે કેવી રીતે અનુકૂલિત થાય તે સેટ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:152
+msgid "Set how the image is adapted to the monitor resolution"
+msgstr "છબી મોનિટર રિઝોલ્યુશન સાથે કેવી રીતે અનુકૂલિત થાય તે સેટ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:159
+msgid "Download folder"
+msgstr "ડાઉનલોડ ફોલ્ડર"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:174
+msgid "Download thumbnail from YouTube for videos"
+msgstr "વિડિઓઝ માટે YouTube પરથી થંબનેલ ડાઉનલોડ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/generalPage.js:175
+msgid ""
+"If the APOD is a YouTube video, download and use its thumbnail as wallpaper"
+msgstr ""
+"જો APOD એ YouTube વિડિઓ હોય, તો તેની થંબનેલ ડાઉનલોડ કરો અને વૉલપેપર તરીકે ઉપયોગ કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/historyPage.js:62
+#: nasa_apod@elinvention.ovh/preferences/historyPage.js:163
+msgid "History"
+msgstr "ઈતિહાસ"
+
+#: nasa_apod@elinvention.ovh/preferences/historyPage.js:70
+msgid ""
+"You can pin a background by selecting it.\n"
+"A pinned background won't be replaced by newer ones."
+msgstr ""
+"તમે બેકગ્રાઉન્ડને પસંદ કરીને પિન કરી શકો છો.\\nપિન કરેલ બેકગ્રાઉન્ડ નવા દ્વારા બદલવામાં "
+"આવશે નહીં."
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:41
+msgid "Remove"
+msgstr "દૂર કરો"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:59
+msgid "Add NASA APOD API key"
+msgstr "NASA APOD API ચાવી(Key) ઉમેરો"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:71
+msgid "The entered API key is not valid."
+msgstr "દાખલ કરેલ API કી માન્ય નથી."
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:78
+msgid "The API key has to be 40 characters long."
+msgstr "API કી ૪૦ અક્ષર લાંબી હોવી જોઈએ."
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:87
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:189
+msgid "Add"
+msgstr "ઉમેરો"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:113
+msgid "Network"
+msgstr "નેટવર્ક"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:123
+msgid "Network Usage"
+msgstr "નેટવર્ક વપરાશ"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:128
+msgid "HD version"
+msgstr "HD આવૃત્તિ"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:129
+msgid "Low resolution version"
+msgstr "લો-રિઝોલ્યુશન આવૃત્તિ"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:132
+msgid "Image resolution:"
+msgstr "છબી રિઝોલ્યુશન:"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:133
+msgid "Image resolution for non metered connections"
+msgstr "મીટર ન કરેલા કનેક્શન માટે છબી રિઝોલ્યુશન"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:140
+msgid "Image resolution on metered networks:"
+msgstr "મીટર કરેલા નેટવર્ક પર છબી રિઝોલ્યુશન:"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:141
+msgid "Image resolution for metered connections"
+msgstr "મીટર કરેલા કનેક્શન માટે છબી રિઝોલ્યુશન"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:152
+msgid "Automatic refresh on metered networks:"
+msgstr "મીટર કરેલા નેટવર્ક પર આપમેળે અધ્યતન કરો:"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:166
+msgid "API keys"
+msgstr "API કી"
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:171
+msgid ""
+"API keys can be obtained from the <a href=\"https://api.nasa.gov/"
+"index.html#apply-for-an-api-key\">NASA APOD website</a>.\n"
+"Each key is limited to 1000 requests per hour, and hence you may not be able "
+"to refresh with the default keys."
+msgstr ""
+"API કી <a href=\\\"https://api.nasa.gov/index.html#apply-for-an-api-key\\"
+"\">NASA APOD વેબસાઇટ</a> પરથી મેળવી શકાય છે.\\nદરેક કી પ્રતિ કલાક ૧૦૦૦ વિનંતીઓ સુધી "
+"મર્યાદિત છે, અને તેથી તમે ડિફોલ્ટ કી સાથે રિફ્રેશ કરી શકશો નહીં."
+
+#: nasa_apod@elinvention.ovh/preferences/networkPage.js:193
+msgid "Default"
+msgstr "મૂળભૂત"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:11
+msgid "Hide indicator"
+msgstr "ઇન્ડિકેટર છુપાવો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:12
+msgid "Hide indicator icon from status area"
+msgstr "સ્ટેટસ એરિયામાંથી ઇન્ડિકેટર ચિન્હ છુપાવો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:17
+msgid "Send a notifications"
+msgstr "સૂચનાઓ મોકલો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:18
+msgid ""
+"Send a notification with explanation when the picture of the day is "
+"downloaded"
+msgstr "જ્યારે દિવસનું ચિત્ર ડાઉનલોડ થાય ત્યારે સમજૂતી સાથે સૂચના મોકલો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:23
+msgid "Use transient notifications (auto dismiss)"
+msgstr "ક્ષણિક સૂચનાઓનો ઉપયોગ કરો (આપોઆપ દૂર થશે)"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:29
+msgid "Set background"
+msgstr "બેકગ્રાઉન્ડ ગોઠવો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:30
+msgid "Set background to NASA's APOD"
+msgstr "નાસાના APOD ને બેકગ્રાઉન્ડ તરીકે સેટ કરો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:35
+msgid "Use thumbnail (requires a call to YouTube APIs)"
+msgstr "થંબનેલનો ઉપયોગ કરો (YouTube API ના ઉપયોગની જરૂર પડશે)"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:36
+msgid "Use thumbnail for video"
+msgstr "વિડિઓ માટે થંબનેલનો ઉપયોગ કરો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:41
+msgid "Where to download pictures."
+msgstr "ચિત્રો ક્યાં ડાઉનલોડ કરવા."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:42
+msgid "An empty string means that the default folder is used: ~/.cache/apod/"
+msgstr ""
+"ખાલી શબ્દમાળા (string) નો અર્થ છે કે ડિફોલ્ટ ફોલ્ડરનો ઉપયોગ થશે: ~/.cache/apod/"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:47
+msgid "NASA APOD api key."
+msgstr "NASA APOD API ચાવી(Key)"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:48
+msgid "Get your API key from https://api.nasa.gov/"
+msgstr "તમારી API કી https://api.nasa.gov/ પરથી મેળવો"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:53
+msgid "Last performed refresh."
+msgstr "છેલ્લે કરવામાં આવેલ રિફ્રેશ."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:59
+msgid "Last json downloaded from API."
+msgstr "API માંથી છેલ્લે ડાઉનલોડ થયેલ json."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:65
+msgid "Background image adjustment."
+msgstr "બેકગ્રાઉન્ડ છબી ગોઠવણ."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:71
+msgid "Pinned Background"
+msgstr "પિન કરેલ બેકગ્રાઉન્ડ"
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:72
+msgid ""
+"Pinned Background allows you to pin an old background and prevent the "
+"extension from replacing it with a new one."
+msgstr ""
+"પિન કરેલ બેકગ્રાઉન્ડ તમને જૂના બેકગ્રાઉન્ડને પિન કરવાની અને એક્સ્ટેંશનને તેને નવા બેકગ્રાઉન્ડ સાથે "
+"બદલતા અટકાવવાની મંજૂરી આપે છે."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:77
+msgid "Image resolution."
+msgstr "છબી રિઝોલ્યુશન."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:78
+msgid ""
+"Can be \"hd\" or \"lowres\". \"hd\" downloads from hdurl as found in the "
+"JSON API. \"lowres\" downloads from url as found in the JSON API."
+msgstr ""
+"તે \"hd\" અથવા \"lowres\" હોઈ શકે છે.\\n\"hd\" JSON API માં મળેલ hdurl પરથી "
+"ડાઉનલોડ કરે છે.\\n\"lowres\" JSON API માં મળેલ url પરથી ડાઉનલોડ કરે છે."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:85
+msgid "Image resolution on metered networks."
+msgstr "મીટર કરેલા નેટવર્ક પર છબી રિઝોલ્યુશન."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:86
+msgid "Same as image-resolution, but only applies to metered networks."
+msgstr "image-resolution જેવું જ છે, પરંતુ તે ફક્ત મીટર કરેલા નેટવર્ક પર જ લાગુ થાય છે."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:91
+msgid "Automatic refresh with metered network."
+msgstr "મીટર કરેલા નેટવર્ક સાથે ઓટોમેટિક રિફ્રેશ."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:92
+msgid "If false disables automatic image download when the network is metered."
+msgstr ""
+"જો 'ખોટું' (false) હશે તો જ્યારે નેટવર્ક મીટર કરવામાં આવશે ત્યારે ઓટોમેટિક છબી ડાઉનલોડ "
+"અક્ષમ થઈ જશે."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:97
+msgid "Indicator position."
+msgstr "ઇન્ડિકેટરનું સ્થાન."
+
+#: nasa_apod@elinvention.ovh/schemas/org.gnome.shell.extensions.nasa-apod.gschema.xml:98
+msgid "Useful to statically position the indicator in the status area."
+msgstr "સ્ટેટસ એરિયામાં ઇન્ડિકેટરને સ્થિર રીતે ગોઠવવા માટે ઉપયોગી."
